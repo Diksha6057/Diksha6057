@@ -8,7 +8,7 @@
 <p align="center">
 🎓 B.Tech CSE <br>
 💻 C++ | DSA | Web Development <br>
-🚀 Aspiring Firmware / Systems Engineer  
+🚀 Aspiring Web Developer 
 </p>
 
 <p align="center">
