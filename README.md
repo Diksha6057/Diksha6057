@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Diksha Sharma</h1>
 
 <p align="center">
-🎓 B.Tech CSE @ JUIT (2025–2029) <br>
+🎓 B.Tech CSE <br>
 💻 C++ | DSA | Web Development <br>
 🚀 Aspiring Firmware / Systems Engineer  
 </p>
@@ -19,11 +19,8 @@
 
 ## 🧠 About Me
 
-- 🌱 Currently mastering **Data Structures & Algorithms in C++**
-- 💡 Exploring **Operating Systems & System-Level Concepts**
 - 🌐 Building projects using **Web Technologies**
 - 🤝 Open to **Open Source & Collaborative Projects**
-- 🎯 Goal: Become a **Firmware / Systems Engineer**
 
 ---
 
@@ -59,18 +56,6 @@
 
 ---
 
-### ✅ To-Do List Web App
-- Features: Add, Delete, Filter Tasks  
-- Used **localStorage + DOM manipulation**  
-
----
-
-### 🎨 Portfolio Website
-- Built using **Bootstrap**  
-- Fully responsive and clean UI  
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -88,14 +73,6 @@
 
 ---
 
-## 🧩 Problem Solving
-
-- 💻 Practicing **DSA (Arrays, Linked List, Recursion, Sorting, Searching)**  
-- 🧠 Regular problem solving to strengthen logic building  
-- 🚀 Improving consistency and coding efficiency  
-
----
-
 ## 🌐 Connect With Me
 
 <p>
@@ -108,10 +85,3 @@
 
 ## ⚡ Personal Motto
 > *"Consistency beats talent when talent doesn’t work hard."*
-
----
-
-## 🏆 Current Focus
-- 📌 Strengthening **DSA & Problem Solving**
-- 📌 Building **real-world projects**
-- 📌 Exploring **low-level & system concepts**
