@@ -1,70 +1,81 @@
-<!-- Typing Animation -->
+<!-- 🌌 Banner / Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Diksha+Sharma;C%2B%2B+%7C+DSA+Enthusiast;Web+Developer;Aspiring+Firmware+Engineer&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Diksha+Sharma;C%2B%2B+%7C+DSA+Enthusiast;Web+Developer;Aspiring+Firmware+Engineer;Building+Real+World+Projects&center=true&width=600&height=50">
 </p>
 
-<h1 align="center">Diksha Sharma</h1>
+<h1 align="center">Hi 👋, I'm Diksha Sharma</h1>
 
 <p align="center">
-🎓 B.Tech Computer Science @ JUIT (2025–2029) <br>
-💻 C++ | Data Structures & Algorithms | Web Development <br>
-🎯 Aspiring Firmware / Systems Engineer  
+🎓 B.Tech CSE @ JUIT (2025–2029) <br>
+💻 C++ | DSA | Web Development <br>
+🚀 Aspiring Firmware / Systems Engineer  
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Diksha6057&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🧠 Profile Summary
+## 🧠 About Me
 
-- Currently focused on **Data Structures & Algorithms using C++**  
-- Exploring **Operating Systems and low-level system concepts**  
-- Building projects in **C++ and Web Development**  
-- Interested in **problem-solving and scalable system design**  
-
----
-
-## 🛠️ Technical Skills
-
-**Languages:** C, C++, JavaScript, Python, HTML, CSS  
-**Frameworks & Libraries:** Bootstrap, STL (C++)  
-**Tools:** Git, GitHub, Visual Studio Code  
-**Core Concepts:** OOP, Data Structures & Algorithms, DOM Manipulation  
+- 🌱 Currently mastering **Data Structures & Algorithms in C++**
+- 💡 Exploring **Operating Systems & System-Level Concepts**
+- 🌐 Building projects using **Web Technologies**
+- 🤝 Open to **Open Source & Collaborative Projects**
+- 🎯 Goal: Become a **Firmware / Systems Engineer**
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech Stack
 
-### SmartBankPro – C++ Banking System  
+### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python,html,css"/>
+</p>
+
+### ⚙️ Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bootstrap"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💳 SmartBankPro (C++)
 🔗 https://github.com/Diksha6057/Smart_Bank_Pro  
-- Developed using **Object-Oriented Programming (Inheritance, Polymorphism)**  
-- Utilized **STL containers and templates**  
-- Implemented **exception handling for reliability**  
-- Designed modular and maintainable architecture  
+- Designed using **OOP (Inheritance, Polymorphism)**  
+- Used **STL & Templates** for efficient operations  
+- Implemented **Exception Handling**  
+- Modular, scalable code structure  
 
 ---
 
-### Murious Techfest Website – JUIT  
-- Developed interactive **Events Section UI**  
-- Implemented **responsive design and animations**  
-- Collaborated using **GitHub workflows and version control**  
+### 🌐 Murious Techfest Website (JUIT)
+- Built interactive **Events Section UI**  
+- Implemented **scroll animations & responsive design**  
+- Worked with **GitHub PR workflow & team collaboration**  
 
 ---
 
-### To-Do List Application  
-- Built a task manager with **CRUD operations and local storage**  
-- Applied **JavaScript DOM manipulation and event handling**  
+### ✅ To-Do List Web App
+- Features: Add, Delete, Filter Tasks  
+- Used **localStorage + DOM manipulation**  
 
 ---
 
-### Personal Portfolio Website  
-- Designed a responsive portfolio using **Bootstrap**  
-- Focused on **clean UI and accessibility**  
+### 🎨 Portfolio Website
+- Built using **Bootstrap**  
+- Fully responsive and clean UI  
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Diksha6057&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha6057&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -79,19 +90,28 @@
 
 ## 🧩 Problem Solving
 
-- Practicing **Data Structures & Algorithms** (Arrays, Linked Lists, Recursion, Sorting, Searching)  
-- Regularly solving problems to improve **analytical and coding skills**  
+- 💻 Practicing **DSA (Arrays, Linked List, Recursion, Sorting, Searching)**  
+- 🧠 Regular problem solving to strengthen logic building  
+- 🚀 Improving consistency and coding efficiency  
 
 ---
 
-## 🌐 Contact
+## 🌐 Connect With Me
 
-- GitHub: https://github.com/Diksha6057  
+<p>
+<a href="https://github.com/Diksha6057">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
+</p>
 
 ---
 
-## 🎯 Current Focus
+## ⚡ Personal Motto
+> *"Consistency beats talent when talent doesn’t work hard."*
 
-- Strengthening **DSA and problem-solving skills**  
-- Building **real-world projects**  
-- Exploring **system-level programming concepts**  
+---
+
+## 🏆 Current Focus
+- 📌 Strengthening **DSA & Problem Solving**
+- 📌 Building **real-world projects**
+- 📌 Exploring **low-level & system concepts**
