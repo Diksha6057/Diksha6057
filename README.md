@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Diksha+Sharma;Web+Developer;Aspiring+Firmware+Engineer;Building+Real+World+Projects&center=true&width=600&height=50">
 </p>
 
-<h1 align="center">Hi 👋, I'm Diksha Sharma</h1>
+<h1 align="center">Hey...!! 👋, I'm Diksha Sharma</h1>
 
 <p align="center">
 🎓 B.Tech CSE <br>
