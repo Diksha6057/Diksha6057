@@ -1,6 +1,6 @@
-<!-- 🌌 Banner / Typing Animation -->
+<!-- 🌌 Friendly Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Diksha+Sharma;C%2B%2B+%7C+DSA+Enthusiast;Web+Developer;Aspiring+Firmware+Engineer;Building+Real+World+Projects&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there+👋;I'm+Diksha+Sharma;Nice+to+meet+you!;C%2B%2B+%7C+DSA+Learner;Future+Firmware+Engineer;Building+cool+things+🚀&center=true&width=600&height=50&color=58A6FF">
 </p>
 
 <h1 align="center">Hi 👋, I'm Diksha Sharma</h1>
