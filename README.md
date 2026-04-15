@@ -91,8 +91,8 @@ Build **scalable, maintainable software systems** that work on weekdays, weekend
 <table>
 <tr>
 <td align="center"><b>Git</b><br><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
-<td align="center"><b>GitHub</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></td>
-<td align="center"><b>VS Code</b><br> <img src="https://skillicons.dev/icons?i=git,github,vscode,bootstrap" width="40"/></td>
+<td align="center"><b>GitHub</b><br><img src="https://skillicons.dev/icons?i=github" width="40"/></td>
+<td align="center"><b>VS Code</b><br> <img src="https://skillicons.dev/icons?i=vscode" width="40"/></td>
 <td align="center"><b>Bootstrap</b><br><img src="https://skillicons.dev/icons?i=bootstrap"  width="40"/></td>
 </tr>
 </table>
