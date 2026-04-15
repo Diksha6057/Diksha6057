@@ -41,9 +41,10 @@
   </picture>
 </p>
 
-📫 **Professional Contact Channels:**  
+📫 **Professional Contact Channel:**  
 
-  ✉️ Email: **dikshasharma.psr@gmail.com**  
+  ✉️ Email: **dikshasharma.psr@gmail.com**
+  
 
 🎯 **Primary Objective**  
 
