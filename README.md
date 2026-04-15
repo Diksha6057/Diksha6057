@@ -11,7 +11,7 @@
 
 </p>
 
-<h1 align="center">Hey 👋, I'm Diksha Sharma</h1>
+<h1 align="center">Hey, I'm Diksha Sharma</h1>
 
 <p align="center">
 🎓 B.Tech CSE Student<br>
