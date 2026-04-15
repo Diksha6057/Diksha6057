@@ -44,8 +44,7 @@
 📫 **Professional Contact Channel:**  
 
   ✉️ Email: **dikshasharma.psr@gmail.com**
-  
-
+  <br>
 🎯 **Primary Objective**  
 
 Build **scalable, maintainable software systems** that work on weekdays, weekends, and under the emotional stress of demo day.
