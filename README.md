@@ -126,10 +126,13 @@ Build **scalable, maintainable software systems** that work on weekdays, weekend
 
 ## 🌐 Connect With Me
 
-<p>
-<a href="https://github.com/Diksha6057">
-  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-</a>
+<p align="left">
+    <a href="https://github.com/Diksha6057">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/diksha-sharma--">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
