@@ -45,7 +45,7 @@
 - ✉️ Email: **dikshasharma.psr@gmail.com**  
 
 ⚡ **Primary Objective:**
-Build **scalable, maintainable software systems** that work on weekdays, weekends, and under the emotional stress of demo day.
+- Build **scalable, maintainable software systems** that work on weekdays, weekends, and under the emotional stress of demo day.
   
 ---
 
