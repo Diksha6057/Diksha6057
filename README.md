@@ -26,7 +26,7 @@
 ## 🧾 Developer Profile !
 
 
-- 🎓 Currently in my first year of B.Tech in Computer Science and Engineering
+- 🎓 Currently in first year of B.Tech in Computer Science and Engineering
 - 💡 Currntly exploring web development
 - 🖥️ Enjoy creating responsive UIs with HTML, CSS and Bootstrap
 - 🤝 Open to **Open Source & Collaborative Projects**
