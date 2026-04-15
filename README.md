@@ -37,21 +37,6 @@
 🎯 **Primary Objective**  
 Build **scalable, maintainable software systems** that work on weekdays, weekends, and under the emotional stress of demo day.
   
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,js,python,html,css"/>
-</p>
-
-### ⚙️ Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bootstrap"/>
-</p>
-
 ---
 
 ## 🌳 Skill Tree (Structured Systems View)
@@ -75,14 +60,6 @@ Build **scalable, maintainable software systems** that work on weekdays, weekend
 <td align="center"><b>HTML</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></td>
 <td align="center"><b>CSS</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></td>
 </tr>
-</table>
-
----
-
-### 🤖 Machine Learning (Applied Selectively)
-<table>
-<tr>
-<td align="center"><b>Python</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
 </table>
 
 ---
