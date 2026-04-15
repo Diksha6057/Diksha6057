@@ -8,7 +8,7 @@
 
  <!-- 🌌 Banner / Typing Animation -->
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Diksha+Sharma;C%2B%2B+%7C+DSA+Enthusiast;Web+Developer;Aspiring+Firmware+Engineer;Building+Real+World+Projects&center=true&width=600&height=50">
+
 </p>
 
 <h1 align="center">Hey 👋, I'm Diksha Sharma</h1>
