@@ -11,12 +11,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Diksha+Sharma;C%2B%2B+%7C+DSA+Enthusiast;Web+Developer;Aspiring+Firmware+Engineer;Building+Real+World+Projects&center=true&width=600&height=50">
 </p>
 
-<h1 align="center">Hi 👋, I'm Diksha Sharma</h1>
+<h1 align="center">Hey 👋, I'm Diksha Sharma</h1>
 
 <p align="center">
-🎓 B.Tech CSE @ JUIT (2025–2029) <br>
-💻 C++ | DSA | Web Development <br>
-🚀 Aspiring Firmware / Systems Engineer  
+🎓 B.Tech CSE Student<br>
+🚀 Aspiring Web Developer
 </p>
 
 <p align="center">
@@ -27,11 +26,11 @@
 
 ## 🧠 About Me
 
-- 🌱 Currently mastering **Data Structures & Algorithms in C++**
-- 💡 Exploring **Operating Systems & System-Level Concepts**
-- 🌐 Building projects using **Web Technologies**
+
+- 🎓 I'm currently in my first year of B.Tech in Computer Science and Engineering
+- 💡 I'm currntly exploring web development and enjoy creating responsive UIs with HTML, CSS and Bootstrap
 - 🤝 Open to **Open Source & Collaborative Projects**
-- 🎯 Goal: Become a **Firmware / Systems Engineer**
+- 🌐 How to reach me: dikshasharma.psr@gmail.com
 
 ---
 
