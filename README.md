@@ -1,6 +1,14 @@
 <!-- 🌌 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello, There! 👋;This is Diksha+Sharma;Nice to meet you;C%2B%2B+%7C+DSA+Enthusiast;Web+Developer;Aspiring+Firmware+Engineer;Building+Real+World+Projects&center=true&width=600&height=50">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+There!+%F0%9F%91%8B+;This+is+Devank...;Nice+to+meet+you&center=true&size=30"/>
+  </a>
+</h1>
+
+ <!-- 🌌 Banner / Typing Animation -->
+
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Diksha+Sharma;C%2B%2B+%7C+DSA+Enthusiast;Web+Developer;Aspiring+Firmware+Engineer;Building+Real+World+Projects&center=true&width=600&height=50">
 </p>
 
 <h1 align="center">Hi 👋, I'm Diksha Sharma</h1>
@@ -17,39 +25,26 @@
 
 ---
 
-## 🌱 About Me
+## 🧠 About Me
 
-<p>
-I build my skills through <b>consistent practice, real-world projects, and structured learning</b>.  
-Currently focused on mastering <b>Data Structures & Algorithms in C++</b> while exploring  
-<b>Web Development and System-Level Concepts</b>.  
-
-I enjoy solving problems, understanding how systems work internally,  
-and continuously pushing my limits as a developer 🚀  
-</p>
-
-<!-- Contribution Snake Graph -->
-<p align="center">
-  <img src="https://github.com/Diksha6057/Diksha6057/blob/output/github-contribution-grid-snake.svg" />
-</p>
+- 🌱 Currently mastering **Data Structures & Algorithms in C++**
+- 💡 Exploring **Operating Systems & System-Level Concepts**
+- 🌐 Building projects using **Web Technologies**
+- 🤝 Open to **Open Source & Collaborative Projects**
+- 🎯 Goal: Become a **Firmware / Systems Engineer**
 
 ---
 
-## 🛠️ Skill Tree (Structured Systems View)
+## 🛠️ Tech Stack
 
-### 💻 Core Programming Languages
+### 👨‍💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,mysql"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python,html,css"/>
 </p>
 
-### 🌐 Web Development (Primary Build Path)
+### ⚙️ Tools & Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,express"/>
-</p>
-
-### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bootstrap"/>
 </p>
 
 ---
@@ -72,6 +67,12 @@ and continuously pushing my limits as a developer 🚀
 
 ---
 
+### ✅ To-Do List Web App
+- Features: Add, Delete, Filter Tasks  
+- Used **localStorage + DOM manipulation**  
+
+---
+
 ### 🎨 Portfolio Website
 - Built using **Bootstrap**  
 - Fully responsive and clean UI  
@@ -87,20 +88,19 @@ and continuously pushing my limits as a developer 🚀
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diksha6057&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diksha6057&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## ✨ What I'm Looking For
+## 🧩 Problem Solving
 
-- 🤝 Open Source Collaboration Opportunities  
-- 💻 Real-world Development Projects  
-- 🧠 Learning Systems, Firmware & Low-Level Concepts  
-- 🚀 Growth-focused developer communities  
+- 💻 Practicing **DSA (Arrays, Linked List, Recursion, Sorting, Searching)**  
+- 🧠 Regular problem solving to strengthen logic building  
+- 🚀 Improving consistency and coding efficiency  
 
 ---
 
@@ -110,13 +110,16 @@ and continuously pushing my limits as a developer 🚀
 <a href="https://github.com/Diksha6057">
   <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
-
-<a href="https://www.linkedin.com/in/diksha-sharma">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
 </p>
 
 ---
 
 ## ⚡ Personal Motto
 > *"Consistency beats talent when talent doesn’t work hard."*
+
+---
+
+## 🏆 Current Focus
+- 📌 Strengthening **DSA & Problem Solving**
+- 📌 Building **real-world projects**
+- 📌 Exploring **low-level & system concepts**
