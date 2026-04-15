@@ -24,15 +24,19 @@
 
 ---
 
-## 🧠 About Me
+## 🧾 Developer Profile !
 
 
 - 🎓 I'm currently in my first year of B.Tech in Computer Science and Engineering
 - 💡 I'm currntly exploring web development and enjoy creating responsive UIs with HTML, CSS and Bootstrap
 - 🤝 Open to **Open Source & Collaborative Projects**
-- 📫 **Professional Contact Channels**  
+
+📫 **Professional Contact Channels:**  
   ✉️ Email: **dikshasharma.psr@gmail.com**  
   🔗 LinkedIn: **https://linkedin.com/in/diksha-sharma--**
+
+🎯 **Primary Objective**  
+Build **scalable, maintainable software systems** that work on weekdays, weekends, and under the emotional stress of demo day.
   
 
 ---
@@ -50,6 +54,51 @@
 </p>
 
 ---
+
+## 🌳 Skill Tree (Structured Systems View)
+
+> Skills unlocked through repetition, documentation, and controlled chaos.
+
+### 🧩 Core Programming Languages
+<table>
+<tr>
+<td align="center"><b>C</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
+<td align="center"><b>C++</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
+<td align="center"><b>Python</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
+<td align="center"><b>JavaScript</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></td>
+</table>
+
+---
+
+### 🌐 Web Development (Primary Build Path)
+<table>
+<tr>
+<td align="center"><b>HTML</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></td>
+<td align="center"><b>CSS</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></td>
+</tr>
+</table>
+
+---
+
+### 🤖 Machine Learning (Applied Selectively)
+<table>
+<tr>
+<td align="center"><b>Python</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
+</table>
+
+---
+
+### 🛠️ Tools & Cloud (Standard Issue Equipment)
+<table>
+<tr>
+<td align="center"><b>Git</b><br><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
+<td align="center"><b>GitHub</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></td>
+</tr>
+</table>
+
+---
+
+
 
 ## 🚀 Featured Projects
 
