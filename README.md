@@ -144,5 +144,13 @@ Build **scalable, maintainable software systems** that work on weekdays, weekend
 
 ---
 
+## ✨ What I'm Looking For
+
+- 🌱 Growth opportunities in **Web Development **
+- 🤝 Collaboration on **real-world, scalable projects**
+- 💡 Building products that solve **meaningful problems**
+
+---
+
 ## ⚡ Personal Motto
 > *"Consistency beats talent when talent doesn’t work hard."*
