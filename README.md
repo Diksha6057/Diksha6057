@@ -30,6 +30,16 @@
 - 💡 I'm currntly exploring web development and enjoy creating responsive UIs with HTML, CSS and Bootstrap
 - 🤝 Open to **Open Source & Collaborative Projects**
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diksha6057&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diksha6057&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diksha6057&theme=default" />
+  </picture>
+</p>
+
 📫 **Professional Contact Channels:**  
   ✉️ Email: **dikshasharma.psr@gmail.com**  
   🔗 LinkedIn: **https://linkedin.com/in/diksha-sharma--**
