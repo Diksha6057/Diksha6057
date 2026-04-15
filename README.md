@@ -30,7 +30,10 @@
 - 🎓 I'm currently in my first year of B.Tech in Computer Science and Engineering
 - 💡 I'm currntly exploring web development and enjoy creating responsive UIs with HTML, CSS and Bootstrap
 - 🤝 Open to **Open Source & Collaborative Projects**
-- 🌐 How to reach me: dikshasharma.psr@gmail.com
+- 📫 **Professional Contact Channels**  
+  ✉️ Email: **dikshasharma.psr@gmail.com**  
+  🔗 LinkedIn: **https://linkedin.com/in/diksha-sharma--**
+  
 
 ---
 
