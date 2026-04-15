@@ -110,13 +110,8 @@ Build **scalable, maintainable software systems** that work on weekdays, weekend
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Diksha6057&bg_color=020617&color=38bdf8&line=6366f1&point=818cf8&area=true&hide_border=true" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Diksha6057&bg_color=f8fafc&color=38bdf8&line=6366f1&point=818cf8&area=true&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diksha6057&hide_border=true" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Diksha6057&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha6057&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -125,7 +120,13 @@ Build **scalable, maintainable software systems** that work on weekdays, weekend
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diksha6057&theme=tokyo-night&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Diksha6057&bg_color=020617&color=38bdf8&line=6366f1&point=818cf8&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Diksha6057&bg_color=f8fafc&color=38bdf8&line=6366f1&point=818cf8&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diksha6057&hide_border=true" />
+  </picture>
 </p>
 
 ---
