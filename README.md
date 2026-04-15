@@ -26,8 +26,9 @@
 ## 🧾 Developer Profile !
 
 
-- 🎓 I'm currently in my first year of B.Tech in Computer Science and Engineering
-- 💡 I'm currntly exploring web development and enjoy creating responsive UIs with HTML, CSS and Bootstrap
+- 🎓 Currently in my first year of B.Tech in Computer Science and Engineering
+- 💡 Currntly exploring web development
+- 🖥️ Enjoy creating responsive UIs with HTML, CSS and Bootstrap
 - 🤝 Open to **Open Source & Collaborative Projects**
 
 <p align="center">
@@ -41,10 +42,11 @@
 </p>
 
 📫 **Professional Contact Channels:**  
+
   ✉️ Email: **dikshasharma.psr@gmail.com**  
-  🔗 LinkedIn: **https://linkedin.com/in/diksha-sharma--**
 
 🎯 **Primary Objective**  
+
 Build **scalable, maintainable software systems** that work on weekdays, weekends, and under the emotional stress of demo day.
   
 ---
@@ -92,10 +94,9 @@ Build **scalable, maintainable software systems** that work on weekdays, weekend
 
 ### 💳 SmartBankPro (C++)
 🔗 https://github.com/Diksha6057/Smart_Bank_Pro  
-- Designed using **OOP (Inheritance, Polymorphism)**  
+- Designed using **OOP**  
 - Used **STL & Templates** for efficient operations  
-- Implemented **Exception Handling**  
-- Modular, scalable code structure  
+- Implemented **Exception Handling**   
 
 ---
 
@@ -146,7 +147,7 @@ Build **scalable, maintainable software systems** that work on weekdays, weekend
 
 ## ✨ What I'm Looking For
 
-- 🌱 Growth opportunities in **Web Development **
+- 🌱 Growth opportunities in **Web Development**
 - 🤝 Collaboration on **real-world, scalable projects**
 - 💡 Building products that solve **meaningful problems**
 
