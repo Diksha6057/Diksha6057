@@ -26,9 +26,9 @@
 ## 🧾 Developer Profile !
 
 
-- 🎓 Currently in first year of B.Tech in Computer Science and Engineering
-- 💡 Currntly exploring web development
-- 🖥️ Enjoy creating responsive UIs with HTML, CSS and Bootstrap
+- 🎓 First-year B.Tech student in Computer Science and Engineering
+- 💡 Exploring web development with a focus on building responsive and user-centric applications
+- 🖥️ Building responsive and user-friendly interfaces using HTML, CSS, and Bootstrap
 - 🤝 Open to **Open Source & Collaborative Projects**
 
 <p align="center">
