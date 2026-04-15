@@ -1,4 +1,4 @@
-<!-- 🌌 Typing Animation -->
+
 <p align="center">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -6,7 +6,6 @@
   </a>
 </h1>
 
- <!-- 🌌 Banner / Typing Animation -->
 
 
 </p>
