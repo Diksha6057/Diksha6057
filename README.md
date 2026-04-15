@@ -60,21 +60,10 @@
 ---
 
 ### 🌐 Murious Techfest Website (JUIT)
+🔗 https://github.com/technicalclub-jyc/murious-2026.git
 - Built interactive **Events Section UI**  
 - Implemented **scroll animations & responsive design**  
 - Worked with **GitHub PR workflow & team collaboration**  
-
----
-
-### ✅ To-Do List Web App
-- Features: Add, Delete, Filter Tasks  
-- Used **localStorage + DOM manipulation**  
-
----
-
-### 🎨 Portfolio Website
-- Built using **Bootstrap**  
-- Fully responsive and clean UI  
 
 ---
 
@@ -95,14 +84,6 @@
 
 ---
 
-## 🧩 Problem Solving
-
-- 💻 Practicing **DSA (Arrays, Linked List, Recursion, Sorting, Searching)**  
-- 🧠 Regular problem solving to strengthen logic building  
-- 🚀 Improving consistency and coding efficiency  
-
----
-
 ## 🌐 Connect With Me
 
 <p>
@@ -115,10 +96,3 @@
 
 ## ⚡ Personal Motto
 > *"Consistency beats talent when talent doesn’t work hard."*
-
----
-
-## 🏆 Current Focus
-- 📌 Strengthening **DSA & Problem Solving**
-- 📌 Building **real-world projects**
-- 📌 Exploring **low-level & system concepts**
