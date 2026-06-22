@@ -26,9 +26,9 @@
 ## 🧾 Developer Profile !
 
 
-- 🎓 First-year B.Tech student in Computer Science and Engineering
+- 🎓B.Tech student in Computer Science and Engineering
 - 💡 Exploring web development with a focus on building responsive and user-centric applications
-- 🖥️ Building responsive and user-friendly interfaces using HTML, CSS, and Bootstrap
+- 🖥️ Building responsive and user-friendly interfaces
 - 🤝 Open to **Open Source & Collaborative Projects**
 
 <p align="center">
@@ -89,14 +89,6 @@
 
 
 ## 🚀 Featured Projects
-
-### 💳 SmartBankPro (C++)
-🔗 https://github.com/Diksha6057/Smart_Bank_Pro  
-- Designed using **OOP**  
-- Used **STL & Templates** for efficient operations  
-- Implemented **Exception Handling**   
-
----
 
 ### 🌐 Murious Techfest Website (JUIT)
 🔗 https://github.com/technicalclub-jyc/murious-2026.git
