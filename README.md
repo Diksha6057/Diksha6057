@@ -1,13 +1,9 @@
-
 <p align="center">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+There!+%F0%9F%91%8B+;This+is+Diksha...;Nice+to+meet+you!&center=true&size=30"/>
   </a>
 </h1>
-
-
-
 </p>
 
 <h1 align="center">Hey, I'm Diksha Sharma</h1>
@@ -25,8 +21,7 @@
 
 ## 🧾 Developer Profile !
 
-
-- 🎓B.Tech student in Computer Science and Engineering
+- 🎓 B.Tech student in Computer Science and Engineering
 - 💡 Exploring web development with a focus on building responsive and user-centric applications
 - 🖥️ Building responsive and user-friendly interfaces
 - 🤝 Open to **Open Source & Collaborative Projects**
@@ -46,7 +41,7 @@
 
 ⚡ **Primary Objective:**
 - Build **scalable, maintainable software systems** that work on weekdays, weekends, and under the emotional stress of demo day.
-  
+
 ---
 
 ## 🌳 Skill Tree (Structured Systems View)
@@ -86,8 +81,6 @@
 
 ---
 
-
-
 ## 🚀 Featured Projects
 
 ### 🌐 Murious Techfest Website (JUIT)
@@ -101,12 +94,19 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diksha6057&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha6057&theme=tokyonight&hide_border=true" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Diksha6057&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha6057&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha6057&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
-
 
 ## 📈 Contribution Graph
 
@@ -119,6 +119,14 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diksha6057&hide_border=true" />
   </picture>
 </p>
+
+---
+
+## ✨ What I'm Looking For
+
+- 🌱 Growth opportunities in **Web Development**
+- 🤝 Collaboration on **real-world, scalable projects**
+- 💡 Building products that solve **meaningful problems**
 
 ---
 
@@ -135,30 +143,5 @@
 
 ---
 
-## ✨ What I'm Looking For
-
-- 🌱 Growth opportunities in **Web Development**
-- 🤝 Collaboration on **real-world, scalable projects**
-- 💡 Building products that solve **meaningful problems**
-
----
-
 ## ⚡ Personal Motto
-> *"Consistency beats talent when talent doesn’t work hard."*
-
-## <img src="https://user-images.githubusercontent.com/74038190/250967443-f5384ba2-bf78-4be4-94be-4559c1827245.gif" height="30"/> &nbsp;**My GitHub Stats**
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="250"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diksha6057&show_icons=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha6057&theme=github-dark-blue" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha6057&layout=compact&theme=github_dark" height="150"/>
-</p>
-
----
+> *"Consistency beats talent when talent doesn't work hard."*
