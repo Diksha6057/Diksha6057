@@ -145,3 +145,15 @@
 
 ## ⚡ Personal Motto
 > *"Consistency beats talent when talent doesn’t work hard."*
+
+## <img src="https://private-user-images.githubusercontent.com/74038190/250967443-f5384ba2-bf78-4be4-94be-4559c1827245.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUxNTAxMzcsIm5iZiI6MTc0NTE0OTgzNywicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc0NDMtZjUzODRiYTItYmY3OC00YmU0LTk0YmUtNDU1OWMxODI3MjQ1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIwVDExNTAzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYzNjg4Y2JkYmZiYWUxOWU3Y2U1NWI0NWUyYTJhMzJjYzkwNzI2NDUwYjc4NWUzNTA0NTg5YTM5MTM0MzMxYzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.TeUPLwstV-iQwcuYWQnJ0yhmm48M0dQH-IVfbco3pJQ" height="30"/> &nbsp;**My GitHub Stats**
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="250"/>
+</p> 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithRushil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</p>
+
+---
+
