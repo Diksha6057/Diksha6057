@@ -14,7 +14,7 @@
   </picture>
 </p>
 
-<h1 align="center">Hey, I'm Diksha Sharma</h1>
+<h1 align="center">Hey there! I'm Diksha Sharma</h1>
 
 <p align="center">
 🎓 B.Tech CSE Student<br>
@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Diksha6057&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
----
+
 
 ## 🧾 Developer Profile !
 
