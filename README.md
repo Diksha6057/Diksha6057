@@ -6,6 +6,14 @@
 </h1>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diksha6057/Diksha6057/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diksha6057/Diksha6057/output/snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Diksha6057/Diksha6057/output/snake.svg" />
+  </picture>
+</p>
+
 <h1 align="center">Hey, I'm Diksha Sharma</h1>
 
 <p align="center">
@@ -16,15 +24,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Diksha6057&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diksha6057/Diksha6057/output/snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diksha6057/Diksha6057/output/snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/Diksha6057/Diksha6057/output/snake.svg" />
-  </picture>
-</p>
-
 ---
 
 ## 🧾 Developer Profile !
