@@ -29,7 +29,7 @@
 ## 🧾 Developer Profile !
 
 - 🎓 B.Tech student in Computer Science and Engineering
-- 💻 Building full-stack web applications with React, Node.js, Express, and MongoDB
+- 💻 Building full-stack web applications
 - 🖥️ Focused on responsive, user-centric interfaces and clean RESTful API design
 - 🤝 Open to **Open Source & Collaborative Projects**
 
@@ -124,7 +124,6 @@
 - Full-stack food delivery platform with a customer storefront and separate **admin panel**
 - Built RESTful backend APIs for orders, users, and inventory management
 - Integrated **Stripe** for secure end-to-end payment processing
-- Capstone project for a Full Stack Development training program
 
 ---
 
@@ -141,7 +140,6 @@
 </p>
 
 - Built as part of ACM's **Open Source Odyssey (OSO)** hackathon
-- Served as **integration lead** and presentation anchor for the team
 - Built the Course Study Page — chapter sidebar, video player, progress tracking, mark-as-complete
 - Integrated OpenRouter (GPT-4o-mini) for AI-generated content and the YouTube Data API for video sourcing
 
@@ -172,8 +170,8 @@
 <img src="https://img.shields.io/badge/Unsplash_API-20232A?style=flat-square&logo=unsplash&logoColor=white"/>
 </p>
 
-- Pinterest-style responsive image gallery with a custom masonry grid layout
-- Integrated the Unsplash API to dynamically fetch and render images
+- Responsive image gallery with a custom masonry grid layout and infinite scrolling
+- Integrated API to dynamically fetch and render images
 
 ---
 
@@ -201,8 +199,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diksha6057&repo=Smart_Bank_Pro&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diksha6057&repo=murious-2026&theme=tokyonight&hide_border=true" height="150"/>
 </p>
-
-> 💡 Tip: pin these repos directly on your GitHub profile (Profile → Customize your pins) so they show up automatically without needing this widget.
 
 ---
 
