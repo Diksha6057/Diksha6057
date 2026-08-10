@@ -29,8 +29,8 @@
 ## 🧾 Developer Profile !
 
 - 🎓 B.Tech student in Computer Science and Engineering
-- 💻 Building full-stack web applications
-- 🖥️ Building responsive and user-friendly interfaces
+- 💻 Building full-stack web applications with React, Node.js, Express, and MongoDB
+- 🖥️ Focused on responsive, user-centric interfaces and clean RESTful API design
 - 🤝 Open to **Open Source & Collaborative Projects**
 
 <p align="center">
@@ -91,6 +91,7 @@
 </tr>
 </table>
 
+**Also working with:** RESTful API design · JWT Authentication · Stripe Payment Integration
 
 ---
 
@@ -110,40 +111,81 @@
 ## 🚀 Featured Projects
 
 ### 🍽️ Savora — Food Delivery Web App
-🔗 https://github.com/Diksha6057/Savora  
-`React` `Node.js` `Express` `MongoDB` `Stripe`
+🔗 https://github.com/Diksha6057/Savora
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+</p>
+
 - Full-stack food delivery platform with a customer storefront and separate **admin panel**
 - Built RESTful backend APIs for orders, users, and inventory management
 - Integrated **Stripe** for secure end-to-end payment processing
+- Capstone project for a Full Stack Development training program
 
 ---
 
 ### 📚 CourseFlow — AI-Powered Course Platform
-`React 19` `Node.js` `Express` `MongoDB` `JWT` `OpenRouter API`
+🔗 https://github.com/ACM-JUIT/Team-12-CourseFlow
+
+<p>
+<img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</p>
+
 - Built as part of ACM's **Open Source Odyssey (OSO)** hackathon
+- Served as **integration lead** and presentation anchor for the team
 - Built the Course Study Page — chapter sidebar, video player, progress tracking, mark-as-complete
 - Integrated OpenRouter (GPT-4o-mini) for AI-generated content and the YouTube Data API for video sourcing
 
 ---
 
 ### 🧠 BrainBurst — MERN Quiz App
-🔗 https://github.com/Diksha6057/BrainBurst  
-`MongoDB` `Express.js` `React` `Node.js`
+🔗 https://github.com/Diksha6057/BrainBurst
+
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+</p>
+
 - Full-stack quiz application with dynamic question rendering and real-time score tracking
 - Designed RESTful API endpoints for quiz data and user results
 
 ---
 
 ### 🖼️ VistaGrid — Image Gallery Web App
-`HTML` `CSS` `JavaScript` `Unsplash API`
+🔗 https://github.com/Diksha6057/VistaGrid
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Unsplash_API-000000?style=flat-square&logo=unsplash&logoColor=white"/>
+</p>
+
 - Pinterest-style responsive image gallery with a custom masonry grid layout
 - Integrated the Unsplash API to dynamically fetch and render images
 
 ---
 
 ### 🎉 Murious 2026 Techfest Website (JUIT)
-🔗 https://github.com/technicalclub-jyc/murious-2026  
-`HTML` `CSS` `JavaScript`
+🔗 https://github.com/technicalclub-jyc/murious-2026
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
 - Built the interactive **Events Section UI** with scroll-driven card animations
 - Worked via GitHub fork-and-PR workflow with the JYC team
 
