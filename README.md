@@ -187,18 +187,6 @@
 - Built the interactive **Events Section UI** with scroll-driven card animations
 - Worked via GitHub fork-and-PR workflow with the JYC team
 
----
-
-## 📌 Popular Repositories
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diksha6057&repo=Savora&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diksha6057&repo=BrainBurst&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diksha6057&repo=Smart_Bank_Pro&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diksha6057&repo=murious-2026&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
 ---
 
